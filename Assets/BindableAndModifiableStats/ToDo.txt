@@ -1,0 +1,25 @@
+Bugs
+
+Need to make another scriptable object for global modifiers, like 10% health. When 'equipped' it should add a modifier
+to all stats of its type.
+
+Finish adding stats to Equipment example
+    -Set up equip/unequip
+Make all additions to StatList create a new instance of the SO
+Add controls from Stat SO to StatList, so they can be edited without the SO being accessible
+    -Or add an object field to double click it?
+
+Add method to StatList to add a List<CharacterStat>
+    -If stat exists, add new stats as modifier with source
+    -If not, add stat with source
+    
+Fix Script namespaces
+    -Com.PI.BAMS
+    -Com.PI.BAMS.Examples
+Clean up/refactor custom editor code
+Moar Examples!
+    -Example showing simple health bar example, but with flat health modifiers, to show source of each damage event
+    -Example buffs. Maybe inherit from CharacterStat and add a timer?
+
+
+Icons from https://alexs-assets.itch.io/16x16-rpg-item-pack

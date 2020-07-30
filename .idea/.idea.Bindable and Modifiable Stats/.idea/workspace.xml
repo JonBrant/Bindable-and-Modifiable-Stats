@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ea0b1a3-3438-4843-bc11-fd88949a777e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TextMeshPro.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Editor/StatListEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/StatPanelTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Editor/StatBaseEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/ObjectClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/CharacterStat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/StatPanelOne.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/UILoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemSlot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/Character.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatModType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemTooltip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TextMeshProUGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/SimpleHealthBar/Scripts/SimpleHealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/SimpleHealthBar/Scripts/ObjectClicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FD8FD784-002F-49BE-AB05-00D3A24213B9/5b/583c33c8/DragAndDrop.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FD8FD784-002F-49BE-AB05-00D3A24213B9/da/7ec2e158/ReorderableList.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/New Folder/TutorialShortcutData.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/TutorialShortcutCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Scripts/MobWave.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Scripts/LevelData.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Scripts/Editor/LevelDataEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Scripts/Editor/LevelDataEditor1.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Scripts/Editor/StatBaseEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Scripts/StatListTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Stats.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Editor/StatsEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Editor/StatBaseEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Testing/StatListEditor/Editor/StatsEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Testing/StatListEditor/Editor/StatBaseEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/ProfileStatistics.cs" />
+        <option value="$PROJECT_DIR$/Assets/New Folder/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Testing/StatListEditor/Editor/StatListEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Testing/StatList.cs" />
+        <option value="$PROJECT_DIR$/Assets/sdfg.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatModType.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Editor/StatBaseEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Editor/HOEditorUndoManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Testing/Testing.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Testing/ObjectClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/StatPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/ScenePicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/Editor/ScenePickerEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/ExampleWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/UISceneBuildSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/UILoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/ObjectClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/StatPanelTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Decoupled UI/Scripts/StatPanelOne.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/OnStatChanged/Scripts/ObjectClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/OnStatChanged/Scripts/SimpleHealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/SimpleHealthBar/Scripts/SimpleHealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/SimpleHealthBar/Scripts/ObjectClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/DraggableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/GrayScaleShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemTypes.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemType.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemSlot.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/Editor/StatListEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatList.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Examples/Equipment/Scripts/ItemTooltip.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/CharacterStat.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/Scripts/StatModifier.cs" />
+        <option value="$PROJECT_DIR$/Assets/BindableAndModifiableStats/ToDo.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1do0eiop42b1c7wYU0Druzt9yZg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="192432">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="192432" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ea0b1a3-3438-4843-bc11-fd88949a777e" name="Default Changelist" comment="" />
+      <created>1593076235889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593076235889</updated>
+      <workItem from="1593076238253" duration="137000" />
+      <workItem from="1593076406007" duration="535000" />
+      <workItem from="1593076979773" duration="1376000" />
+      <workItem from="1593081189616" duration="18079000" />
+      <workItem from="1593099332218" duration="8903000" />
+      <workItem from="1593193999751" duration="636000" />
+      <workItem from="1593205510194" duration="814000" />
+      <workItem from="1593208986464" duration="3593000" />
+      <workItem from="1593336936010" duration="32118000" />
+      <workItem from="1593397865166" duration="7422000" />
+      <workItem from="1593405531736" duration="2057000" />
+      <workItem from="1593408109867" duration="14813000" />
+      <workItem from="1593429746727" duration="9610000" />
+      <workItem from="1596089295207" duration="11818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="508" height="442" key="DebuggerActiveHint" timestamp="1593398395794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="508" height="442" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1593398395794" />
+    <state width="1493" height="279" key="GridCell.Tab.0.bottom" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.0.center" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.0.left" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.0.right" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.1.bottom" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.1.center" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.1.left" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.1.right" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.2.bottom" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.2.center" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.2.left" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.2.right" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.3.bottom" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.3.center" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.3.left" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state width="1493" height="279" key="GridCell.Tab.3.right" timestamp="1596101284802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="279" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1596101284802" />
+    <state x="2468" y="188" key="RiderGenerateDialog" timestamp="1593433917036">
+      <screen x="1680" y="-26" width="1920" height="1080" />
+    </state>
+    <state x="4388" y="188" key="RiderGenerateDialog/0.0.1680.1050/1680.-26.1920.1040/3600.-26.1920.1080@3600.-26.1920.1080" timestamp="1593214063406" />
+    <state x="2468" y="188" key="RiderGenerateDialog/1680.-26.1920.1080/3600.-26.1920.1080/0.0.1680.1050@1680.-26.1920.1080" timestamp="1593433917036" />
+    <state x="2141" y="139" key="SettingsEditor" timestamp="1593094674964">
+      <screen x="1680" y="-26" width="1920" height="1040" />
+    </state>
+    <state x="2141" y="139" key="SettingsEditor/0.0.1680.1050/1680.-26.1920.1040/3600.-26.1920.1080@1680.-26.1920.1040" timestamp="1593094674964" />
+    <state x="3600" y="-26" width="1893" height="999" maximized="true" key="dock-window-1" timestamp="1593092493372">
+      <screen x="3600" y="-26" width="1920" height="1080" />
+    </state>
+    <state x="3600" y="-26" width="1893" height="999" maximized="true" key="dock-window-1/0.0.1680.1050/1680.-26.1920.1040/3600.-26.1920.1080@1680.-26.1920.1040" timestamp="1593092493372" />
+    <state x="2296" y="227" key="run.anything.popup" timestamp="1593338094292">
+      <screen x="1680" y="-26" width="1920" height="1040" />
+    </state>
+    <state x="2296" y="227" key="run.anything.popup/0.0.1680.1050/1680.-26.1920.1040/3600.-26.1920.1080@1680.-26.1920.1040" timestamp="1593338094292" />
+  </component>
+</project>
